@@ -20,7 +20,7 @@ Welcome to the Repository Administration System project, a C# console applicatio
 - **Data Integrity**: Prevents duplicate entries and manages stock quantities post-sales.
 
 ## Watch Demo:
-https://github.com/taha007860/Repository-Administration-System/assets/96583299/d280e708-f147-4d47-a880-fee57d0be592
+https://github.com/taha007860/Repository-Administration-System/assets/96583299/aae41b30-68ab-4fc3-805f-b02f35df18ef
 
 ## Getting Started 🌐
 - **Installation**: Clone/download the repository and set up a C# development environment.
